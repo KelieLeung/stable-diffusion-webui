@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--xformers --lowvram
+set COMMANDLINE_ARGS=--xformers --lowvram --no-half
 
 call webui.bat
